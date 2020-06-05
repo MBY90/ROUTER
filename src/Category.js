@@ -1,4 +1,4 @@
-import React from 'recat'
+import React from 'react'
 import { Link, Route} from 'react-router-dom';
 
 function Category(match)  {
